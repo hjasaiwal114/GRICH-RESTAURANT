@@ -24,7 +24,8 @@
 .app__menuitem-dash {
     width: 90px;
     height: 1px;
-    background: 0 1 rem;
+    background: var(--color-golden);
+    margin: 0 1rem;
 }
 
 .app__menuitem-price {
